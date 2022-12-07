@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "is-js": "justin-oh/ohjs-html-element",
-    "is-js": "justin-oh/ohjs-is"
+    "ohjs-html-element": "justin-oh/ohjs-html-element",
+    "ohjs-is": "justin-oh/ohjs-is"
   }
 }
