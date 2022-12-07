@@ -1,5 +1,5 @@
-import 'ohjs-html-element';
-import { isInstanceOf } from 'ohjs-is';
+import '../ohjs-html-element/index.js';
+import { isInstanceOf } from '../ohjs-is/index.js';
 
 /**
  * Repeats an HTMLElement to mimic marquee scrolling. The scrolling will
