@@ -1,5 +1,5 @@
-A Javascript module that provides 2 functions: 1 for generating a random 
-integer and 1 for generating a random string.
+A Javascript module that provides a function for scrolling an HTMLElement like
+the marquee tag.
 
 Basic usage:
 
